@@ -1,0 +1,6 @@
+shap
+pandas
+numpy
+psycopg2
+joblib
+scikit-learn
